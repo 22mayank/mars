@@ -1,0 +1,23 @@
+
+
+-----------------------------------------------
+object oriented programming notes:
+
+special methods (predefined methods): wo method jinke name k aage or peeche '__' hota h.
+
+call krne ka tareeka :
+		
+		1. special methos ko call krne ka tareeka :
+			
+			special method ka name and ( ) k undar jo parameters dene h wo, and ( ) k undar self ki jagah
+			object ka name.
+
+		2. method created by us :
+	
+			object_ka_name.method_ka_name(parameters)   or ( ) k undar self nhi likhte
+
+
+		important: dono type k methods ko call krte time 'self' nhi likhte and 
+			   object ka name bhi ek baar hi aata h.
+
+------------------------------------------------
